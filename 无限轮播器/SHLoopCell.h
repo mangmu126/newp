@@ -11,6 +11,4 @@
 @interface SHLoopCell : UICollectionViewCell
 
 @property(nonatomic) NSURL *url;
-
-
 @end
